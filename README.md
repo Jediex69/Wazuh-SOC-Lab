@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.jpg" alt="Wazuh SOC Lab Banner" width="100%">
+</p>
+
+
 # Wazuh SOC Lab
 
 Hands-on Security Operations Center lab focused on
